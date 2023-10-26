@@ -1,3 +1,5 @@
 from mylib import logic
 
-print(logic.wiki())
+result = logic.wiki()
+result = result
+print(result)

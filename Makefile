@@ -7,6 +7,7 @@ format:
 	black *.py mylib/*.py
 lint:
 	# flask8 or pylint
+	pylint --disable=R,C *.py ./mylib
 test:
 	# test
 deploy:
