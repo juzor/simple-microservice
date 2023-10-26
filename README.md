@@ -1,3 +1,5 @@
+[![Python app test with CI](https://github.com/juzor/simple-microservice/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/juzor/simple-microservice/actions/workflows/build-deploy.yml)
+
 # simple-microservice
 This is a simple project that demonstrates some of the important dev practise
 
