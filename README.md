@@ -16,3 +16,4 @@ Project contains the followwing structure:
 1. Create a Python virtual environment
 2. Create initial empty files: `Makefile`, `Dockerfile`, `main.py`, `requirements.txt`, '`lib/__init__.py`
 3. Populate the `Makefile`
+4. Setup CI
