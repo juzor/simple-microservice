@@ -17,3 +17,4 @@ Project contains the followwing structure:
 2. Create initial empty files: `Makefile`, `Dockerfile`, `main.py`, `requirements.txt`, '`lib/__init__.py`
 3. Populate the `Makefile`
 4. Setup CI
+5. Build cli using Python `fire` library and use `./cli-fire.py --help` to test 
